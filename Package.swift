@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/johnsundell/publish.git",
+            url: "https://github.com/fatbobman/Publish.git",
             from: "0.3.0"
         ),
     ],
