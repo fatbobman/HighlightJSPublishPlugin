@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/fatbobman/Publish.git",
-            from: "0.3.0"
+            from: "0.6.0"
         ),
     ],
     targets: [
